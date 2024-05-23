@@ -4,3 +4,4 @@ este es otra prueba
 hay que revisar muchas cosas
 este es el ultimo cambio en main antes de hacer el mergue
 ya en github
+esto es del pc a github
